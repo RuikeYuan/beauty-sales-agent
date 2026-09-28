@@ -1,0 +1,31 @@
+{
+  "rule_version": "fictional-v1",
+  "currency": "CNY",
+  "planned_visits": 2,
+  "all_single_total": 480,
+  "combination": {
+    "cards": 0,
+    "singles": 2,
+    "total": 480
+  },
+  "one_card": {
+    "upfront": 880,
+    "validity_months": 4,
+    "used_visits": 2,
+    "consumed": 440,
+    "unused_visits": 2,
+    "refundable_unused": 440,
+    "net_after_refund": 440,
+    "same_visits_as_singles": 480,
+    "saving_after_refund": 40
+  },
+  "excludes": [
+    "first_visit_trial",
+    "extras"
+  ],
+  "assumptions": [
+    "unchanged_prices",
+    "valid_order_refund_terms",
+    "card_validity_requires_separate_review"
+  ]
+}

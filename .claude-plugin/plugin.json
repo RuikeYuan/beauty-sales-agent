@@ -1,0 +1,5 @@
+{
+  "name": "beauty-sales-agent",
+  "description": "美容院金牌销售 subagent，含透明报价、需求澄清、异议回应、决策确认与输出复核技能。",
+  "version": "0.1.0"
+}
